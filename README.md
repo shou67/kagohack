@@ -1,0 +1,2 @@
+# kagohack
+for hackathon Kagoshima
